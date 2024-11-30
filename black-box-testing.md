@@ -1,6 +1,4 @@
-# ***6530250441   นายพศิน หารคำ***
-
-Keyword = "Black box testing"
+# ***Keyword = "Black box testing"***
 # CISSP Glossary - Student Guide
 - ChatGPT :
 การทดสอบที่ไม่มีการใช้รายละเอียดภายในของการทำงานหรือการออกแบบระบบ
@@ -21,6 +19,7 @@ Keyword = "Black box testing"
 # Simple in Daily life
   กรอกคำค่นหาแล้วเว็ปแจ้งว่าไม่พบ บ้างครั้งเว็ปก็ขึ้นไม่ตรงตามความต้องการ เป็นทดสอบระบบอินพุชและเอาพุชของการทำงานระบบฟังชันก์
 
+***6530250441   นายพศิน หารคำ***
 
 ***URL => https://l3b1-qw.github.io/KamolphopPanbunlue/black-box%20testing***
 
