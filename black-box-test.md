@@ -19,7 +19,7 @@ Keyword = "Black box testing"
 
 - Simple in Daily life ผมเคยกรอกคำคนหาแล้วเว็ปแจ้งว่าไม่ผม บ้างครั้งเว็ปก็ขึ้นไม่ตรงตามความต้องการ
   
-URL
+-URL :
 https://l3b1-qw.github.io/KamolphopPanbunlue/black-box%20testing
 
 
