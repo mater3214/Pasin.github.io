@@ -18,5 +18,8 @@ Keyword = "Black box testing"
 - Myself เป็นการทดสอบระบบ โดยต้องอาศัยการอินพุช และ เอาพุช เพื่อทดสอบ โดยจะเป็นการตรวจสอบฟังชันการทำงานต่างๆ ระบบฟังชันต่าง
 
 - Simple in Daily life ผมเคยกรอกคำคนหาแล้วเว็ปแจ้งว่าไม่ผม บ้างครั้งเว็ปก็ขึ้นไม่ตรงตามความต้องการ
+  
+URL
+https://l3b1-qw.github.io/KamolphopPanbunlue/black-box%20testing
 
-https://github.com/L3b1-qw/KamolphopPanbunlue/tree/dab9236f753b93ac1d42956a531f5070eec2c587
+
